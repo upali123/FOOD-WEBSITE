@@ -1,0 +1,92 @@
+.Form {
+  background-color: #79b8ae;
+  box-shadow: 0px 2px 8px rgb(0, 0, 0, 2.5);
+  border-radius: 12px;
+  margin-right: 56px;
+  padding: 3.5rem;
+  margin: 533px;
+  justify-content: center;
+  text-align: center;
+  border-radius: 6px;
+  margin-top: 80px;
+  font-weight: 400;
+}
+
+.Formbackground {
+  background-color: #888f8e;
+}
+.lab {
+  font-family: "Sansita Swashed", "cursive";
+  font-family: "Smooch Sans", sans-serif;
+  font-weight: bolder;
+  font-size: 22px;
+}
+/* div.background {
+  background: url(klematis.jpg) repeat;
+  border: 2px solid black;
+} */
+
+.input {
+  /* display: ; */
+  text-decoration: none;
+  border: none;
+  margin: 6px;
+  width: 322px;
+  height: 22px;
+  color: rgb(3, 5, 5);
+  background-color: 3cbe0df;
+  justify-content: space-between;
+  padding: 22px;
+  border-radius: 12px;
+}
+
+h1 {
+  margin-top: 222px;
+  color: #e6d9d5;
+  padding-left: 22px;
+}
+form .li {
+  justify-content: left;
+  margin-right: 145px;
+}
+.in {
+  padding: 2px;
+}
+.button {
+  /* justify-content: space-between;
+  text-align: center; */
+  background-color: blueviolet;
+  color: #e6d9d5;
+  display: block;
+  margin: auto;
+}
+
+.body {
+  background-color: aqua;
+}
+body {
+  background-color: aqua;
+}
+.Form p {
+  /* background-color: rgb(35, 161, 161); */
+  color: rgb(197, 22, 22);
+}
+img {
+  width: 39px;
+  height: 39px;
+  padding: 1px;
+  margin: 24px;
+}
+.logo {
+  margin: 12px;
+}
+.sub {
+  font-family: "Sansita Swashed", "cursive";
+  font-family: "Smooch Sans", sans-serif;
+  font-weight: bolder;
+  font-size: 22px;
+  border-radius: 12px;
+  border: none;
+  /* background-color: none; */
+  margin-top: 12px;
+}

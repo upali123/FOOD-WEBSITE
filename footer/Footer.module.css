@@ -1,0 +1,33 @@
+body {
+  position: relative;
+  /* background-color: aliceblue; */
+}
+/* main {
+  margin-bottom: 220px;
+  color: aliceblue;
+} */
+.footer-bs {
+  position: absolute;
+  width: 100%;
+  min-height: 320px;
+  bottom: 40px;
+  left: 0;
+  color: aliceblue;
+}
+h2 {
+  color: aliceblue;
+}
+
+h4 {
+  color: aliceblue;
+}
+p {
+  color: aliceblue;
+}
+.foo {
+  box-shadow: 0px 1px 18px 12px;
+  margin: 22px;
+  background-color: rgb(64, 75, 85);
+  color: black;
+  border-radius: 12px;
+}

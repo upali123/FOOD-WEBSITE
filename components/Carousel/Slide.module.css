@@ -1,0 +1,13 @@
+.SLIDE {
+  background-image: "blindly";
+  /* margin-bottom: 22px; */
+}
+.para {
+  box-shadow: 0px 0px 12px 2px black;
+  color: black;
+  /* background-image: ".././net.jpg.jpg"; */
+}
+.paragraph {
+  color: rgb(207, 196, 196);
+  background-color: #812700;
+}
